@@ -1,0 +1,13 @@
+.footer__column-link {
+  margin: 0 0 10px;
+  padding: 0;
+  text-decoration: none;
+  color: white;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.footer__column-link:last-child {
+  margin: 0;
+}
