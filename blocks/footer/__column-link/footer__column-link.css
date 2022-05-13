@@ -11,3 +11,8 @@
 .footer__column-link:last-child {
   margin: 0;
 }
+
+.footer__column-link:hover {
+  transition: opacity .3s;
+  opacity: .5;
+}
